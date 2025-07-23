@@ -66,3 +66,9 @@ exponenciacao = a ** b
 print(f"Ao quadrado: {exponenciacao}") 
 """
 
+""" 
+recendo dados do usuário
+ """
+# fiz a conversão para o tipo que é aceitavél
+# caso precise de outro tipo no input, ai faz a conversão
+numero = int(input("Digite um número: "))
