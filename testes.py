@@ -19,3 +19,11 @@ elif (idade >= 18) and (idade <= 59):
     print("é um adulto")
 else:
     print("é um idoso")
+
+
+list = ["elemento 1", "elemento 2", "elemento 3"]
+print(len(list))
+
+
+teste = {"nome": "teste", "idade": 100}
+print(teste["idade"])
